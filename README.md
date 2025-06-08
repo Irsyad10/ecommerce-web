@@ -2,7 +2,8 @@
 
 1. Solusi Install (1)
    npm install --legacy-peer-deps
-2. Solusi Install (2)
+   
+3. Solusi Install (2)
    npm uninstall date-fns
    npm install date-fns@^3.0.0
 
